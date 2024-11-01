@@ -1,0 +1,22 @@
+#belowytube {
+  height: 10vw;
+  width: 92vw;
+  background-color: #e8fbff;
+  margin-left: 5vw;
+  margin-top: 2vw;
+  display: flex;
+}
+#find {
+  height: 10vw;
+  margin-left: 5vw;
+  margin-top: 2vw;
+  color: black;
+}
+#verification {
+  height: 3vw;
+  width: 14vw;
+  margin-left: 50vw;
+  margin-top: 2vw;
+  background-color: orangered;
+  color: aliceblue;
+}

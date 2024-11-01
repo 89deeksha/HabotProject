@@ -1,0 +1,62 @@
+#box {
+  height: 50vw;
+  width: 92vw;
+  background-color: #072f57;
+  margin-top: 1vw;
+  margin-left: 5vw;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  gap: 6vw;
+}
+#Youtube-banner-content {
+  height: 30vw;
+  width: 60vw;
+}
+
+#Buyer {
+  height: 4vw;
+  width: 15vw;
+  color: orangered;
+  margin-left: 2vw;
+  font-weight: 4vw;
+  /* background-color: aqua; */
+  border-bottom: 0.2vw orangered solid;
+  padding: 1vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+#BUY-SUP {
+  height: 6vw;
+  width: 30vw;
+  display: flex;
+  gap: 9vw;
+}
+#Supplier {
+  color: aliceblue;
+}
+/* #buy-line {
+  height: 7vw;
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: chartreuse;
+  margin-bottom: 10vw;
+} */
+#cont-1 {
+  height: 10vw;
+  width: 35vw;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.checkbox {
+  color: rgb(75, 224, 75);
+  margin-right: 1vw;
+  margin-top: 0.5vw;
+}

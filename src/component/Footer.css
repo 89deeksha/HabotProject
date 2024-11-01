@@ -1,0 +1,79 @@
+#footer {
+  height: 5vw;
+  width: 93vw;
+  background-color: #123557;
+  margin-top: 5vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3vw;
+
+  color: white;
+}
+/* #image-logo {
+  height: 20vw;
+  width: 5vw;
+} */
+#company {
+  height: 7vw;
+  width: 10vw;
+}
+#term {
+  height: 7vw;
+  width: 10vw;
+}
+#related {
+  height: 7vw;
+  width: 10vw;
+}
+#icons {
+  height: 2vw;
+  width: 10vw;
+}
+#company h3 {
+  font-size: 1vw;
+}
+#term h3 {
+  font-size: 1vw;
+}
+#related h3 {
+  font-size: 1vw;
+}
+#company h6 {
+  font-size: 0.6vw;
+}
+#term h6 {
+  font-size: 0.6vw;
+}
+#related h6 {
+  font-size: 0.6vw;
+}
+#icons {
+  height: 4vw;
+  width: 30vw;
+  display: flex;
+  gap: 3vw;
+  font-size: 2vw;
+}
+#image-copyright {
+  height: 10vw;
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+}
+#name {
+  height: 2vw;
+  width: 10vw;
+  font-size: 0.9vw;
+  margin-top: 0.5vw;
+  /* padding-left: 0.5vw; */
+  margin-left: 8vw;
+
+  align-items: center;
+  justify-content: center;
+}
+#image-logo {
+  height: 10vw;
+  width: 10vw;
+  margin-left: 7vw;
+}

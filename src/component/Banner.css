@@ -1,0 +1,86 @@
+#Banner {
+  height: 25vw;
+  width: 100vw;
+  text-align: center;
+  justify-content: center;
+
+  margin-right: 20vw;
+  margin-top: 2vw;
+
+  color: white;
+  padding-top: 10vw;
+  opacity: 0.7;
+  /* margin-top: 10vw; */
+
+  background-image: url("https://s3-alpha-sig.figma.com/img/4df9/f396/c8b4ef806609efd227c6672c5dba3716?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gBRDD07NEtomnqqICw1c1L84zr1mvk9jFSjxItK4Fh6m-VdGsc7eokJ3jkAaItGO0lWHCoPLQHt5Zmj0tfeIHZXakwjHqj8-8sWqk~DMIjHNrAj86~yB331UitE107JvsSyCug7fOVM3U3AzBzf1uRcoAn4gu7V65FVg8wL0D~TSPHG2GmD~Pu5eJSG1TgODIjttsbMl~cZQRf7eLJVzjNO84W7rJ~oFlVMf-vCDzkajJrGMoVX9rhOlyMkYyofKsSQBOIjoLtWpQLxcQqqNHHvGkjuHo5pXGJgs8rfdDVcTxSpz9AyePtmVuFSXqPwxYhjrSps9zpYD7lZMnZMLBg__");
+  background-size: cover;
+}
+#btns {
+  height: 10vh;
+  width: 60vw;
+  display: flex;
+  gap: 0.5vw;
+
+  margin-left: 25vw;
+}
+
+#btn-1 {
+  height: 7vh;
+  width: 20vw;
+  border-radius: 10px;
+  outline: none;
+}
+#btn-2 {
+  height: 7vh;
+  width: 20vw;
+  border-radius: 10px;
+  outline: none;
+}
+#btn-3 {
+  height: 7vh;
+  width: 8vw;
+  background-color: green;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  outline: none;
+}
+#cont-1 {
+  height: 7vw;
+  width: 10vw;
+  display: flex;
+  /* gap: 1vw; */
+  /* margin-left: 40vw; */
+  /* padding-left: 32vw; */
+
+  align-items: center;
+  justify-content: center;
+}
+
+/* #Banner-img {
+  height: 30vw;
+  width: 100vw;
+  margin-bottom: 3vw;
+  margin-top: 10vw;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  object-position: top;
+} */
+
+/* #second-div {
+  height: 30vw;
+  width: 100vw;
+  background-color: aqua;
+} */
+#banner-f {
+  height: 25vw;
+  width: 100vw;
+  object-position: top;
+}
+#para-1 {
+  height: 3vw;
+  width: 40vw;
+
+  margin-left: 30vw;
+}
